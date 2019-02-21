@@ -19,3 +19,11 @@ Source files:
 Libraries used:
 
 * [DigitalTube by Seeed Studio](https://github.com/reeedstudio/libraries/tree/master/DigitalTube)
+
+### 03-WiFi-Connection
+
+Connect to WiFi network.
+
+Source files:
+
+* [03-WiFi-Connection.ino](03-WiFi-Connection/03-WiFi-Connection.ino)
