@@ -10,7 +10,7 @@ Source files:
 
 ### 02-TM1637-Brightness
 
-Change [TM1637](https://playground.arduino.cc/Main/TM1637) display brightness and show brightness value on its screen.
+Changes [TM1637](https://playground.arduino.cc/Main/TM1637) display brightness and shows brightness value on its screen.
 
 Source files:
 
@@ -22,8 +22,16 @@ Libraries used:
 
 ### 03-WiFi-Connection
 
-Connect to WiFi network.
+Connects to WiFi network.
 
 Source files:
 
 * [03-WiFi-Connection.ino](03-WiFi-Connection/03-WiFi-Connection.ino)
+
+### 04-Button-Interrupt
+
+Uses interrupt to turn built-in LED on when button is pressed
+
+Source files:
+
+* [04-Button-Interrupt.ino](04-Button-Interrupt/04-Button-Interrupt.ino)
